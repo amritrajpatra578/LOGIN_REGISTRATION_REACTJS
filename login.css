@@ -1,0 +1,39 @@
+body{
+    background-image: url("./bg2.jpg");
+    background-size: 120em 61em ;
+    font-family: system-ui;
+}
+
+#cont-main{
+    color: rgb(117, 160, 132);
+    padding-left: 44em;
+    padding-top: 15em;
+}
+#log-box{
+    padding-top: 4em;
+}
+#log-bt{
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 500px;    
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    min-width: 190px;
+    text-transform: uppercase;
+    white-space: normal;
+    font-weight: 700;
+    text-align: center;
+    padding: 17px 48px;
+    color: rgb(224, 223, 223);
+    background-color: #417754;
+    height: 48px;
+}
+#log-txt{
+    color: rgb(226, 184, 105);
+    font-size: 1.5em;
+    padding-left: 6.41em;
+}
+#log-box{
+    padding-left: 10em;
+}

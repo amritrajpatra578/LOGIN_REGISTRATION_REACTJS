@@ -1,0 +1,10 @@
+body{
+    background-image: url("./bg2.jpg");
+    background-size: 120em 61em ;
+    font-family: system-ui;
+}
+h1{
+    color: rgb(226, 184, 105);
+    padding-left: 3.9em;
+    padding-top: 6.3em;
+}

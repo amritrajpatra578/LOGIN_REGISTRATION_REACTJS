@@ -1,0 +1,77 @@
+body{
+    background-image: url("./bg2.jpg");
+    background-size: 120em 61em ;
+    font-family: system-ui;
+}
+#cont{
+    color: rgb(117, 160, 132);
+    padding-left: 43em;
+    padding-top: 15em;
+}
+input{
+    background-color: transparent;
+    color: whitesmoke;
+    border: transparent;
+    border-bottom: 1px solid wheat ;
+    border-radius: 0px 10px;
+    padding: 22px 10px ;
+    width: 40%;
+    font-size: 1.1em;
+    align-content: flex-start;
+    background-position: 15px 15px;    
+}
+#reg1{
+    padding-top: 2em;
+    padding-left: 10em;
+    padding-bottom: 2em;
+}
+#log1{
+    padding-top: 0.05em;
+    padding-left: 10em;
+    
+}
+#reg {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 500px;    
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    min-width: 160px;
+    text-transform: uppercase;
+    white-space: normal;
+    font-weight: 700;
+    text-align: center;
+    padding: 17px 48px;
+    color: white;
+    background-color: #417754;
+    height: 48px;
+}
+
+#txt{
+    padding-left: 7em;
+    font-size: 1.4em;
+    color: rgb(226, 184, 105);
+
+}
+#log {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 500px;    
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    min-width: 190px;
+    text-transform: uppercase;
+    white-space: normal;
+    font-weight: 700;
+    text-align: center;
+    padding: 17px 48px;
+    color: white;
+    background-color: #417754;
+    height: 48px;
+}
+
+
+
+
