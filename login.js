@@ -34,9 +34,8 @@ function Login() {
         <div id='contlog'>       
           <h3 id="log-txt">Have an account ?</h3>
 
-          {/* <label>Email: </label> */}
           <input type="email" placeholder="Enter email" onChange={(event) => setEmaillog(event.target.value)}/><br></br>
-          {/* <label>Password: </label> */}
+
           <input type="password" placeholder="Enter password" onChange={(event) => setPasswordlog(event.target.value)}/><br></br>
           <div id="log-box">
           <button id="log-bt">Login</button>
